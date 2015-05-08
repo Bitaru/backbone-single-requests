@@ -1,0 +1,10 @@
+{
+  "name": "backbone-single-requests",
+  "main": "backbone-single-requests.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/homeslicesolutions/backbone-single-requests",
+  "authors": [
+    "joe.vu@homeslicesolutions.com"
+  ],
+  "license": "MIT"
+}
